@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 100px;
+}
+.pink-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;    #FF589B
+}
+.buy-now-button{
+     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+     border: none;
+     color: #fff;
+     padding: 9px 25px;
+     border-radius: 10px;
+     cursor: pointer;
+}
